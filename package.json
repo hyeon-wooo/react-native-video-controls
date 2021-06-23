@@ -1,0 +1,67 @@
+{
+  "_from": "@hyeonwoo/react-native-video-controls",
+  "_id": "@hyeonwoo/react-native-video-controls@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-hxM+f3hr922SOh9svG2UhJKvUCWNTbmd6MIDjerS6J2G7kFHx7GyAsV90cjQRVSO9BLP6CIYu7IO9yEux2Mr7w==",
+  "_location": "/@hyeonwoo/react-native-video-controls",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@hyeonwoo/react-native-video-controls",
+    "name": "@hyeonwoo/react-native-video-controls",
+    "escapedName": "@hyeonwoo%2freact-native-video-controls",
+    "scope": "@hyeonwoo",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@hyeonwoo/react-native-video-controls/-/react-native-video-controls-0.0.1.tgz",
+  "_shasum": "ecfa582b69914aad304daa5a537cb6bea963f459",
+  "_spec": "@hyeonwoo/react-native-video-controls",
+  "_where": "/Users/bangjunhwan/Desktop/react-native-video-controls-subtitle",
+  "author": {
+    "name": "hyeonwoo",
+    "email": "hyeonwoo.v24@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bvv8808/react-native-video-controls/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.16.4"
+  },
+  "deprecated": false,
+  "description": "A set of GUI controls for the react-native-video component (add type file on existing other lib)",
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^0.0.5",
+    "eslint": "^6.5.1"
+  },
+  "homepage": "https://github.com/bvv8808/react-native-video-controls#readme",
+  "keywords": [
+    "react-native",
+    "react-native-video",
+    "react video controls",
+    "react video player"
+  ],
+  "license": "MIT",
+  "main": "VideoPlayer.js",
+  "name": "@hyeonwoo/react-native-video-controls",
+  "peerDependencies": {
+    "react-native": ">=0.46.0",
+    "react-native-video": ">=2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bvv8808/react-native-video-controls.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
